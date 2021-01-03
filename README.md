@@ -6,7 +6,7 @@ Welcome to my GitHub page, I am Faith!
 
 **💼 Currently working as:**
 
-Freelance Backend Engineer
+Freelance Software Engineer
 
 **⚡️ Skills:**
 
